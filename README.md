@@ -29,7 +29,7 @@ A **full-stack** Expense Tracker app built with **Django REST Framework** (Backe
 ## 📌 **Installation & Setup**
 ### **1️⃣ Clone the Repo**
 ```bash
-git clone https://github.com/your-repo/expense-tracker.git
+git clone https://github.com/nischalare/expense-tracker 
 cd expense-tracker
 ```
 
